@@ -224,4 +224,4 @@ php artisan view:clear
 
 ## License
 
-MFTS © 2024. Tous droits réservés.
+MFTS © 2025. Tous droits réservés.
