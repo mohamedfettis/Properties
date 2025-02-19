@@ -1,6 +1,6 @@
 # Système de Gestion de Location Immobilière MFTS
 
-<p align="center"><img src="public/images/mfts.png" width="200" alt="MFTS Logo"></p>
+
 
 ## À propos du projet
 
